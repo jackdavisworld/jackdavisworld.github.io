@@ -1,13 +1,11 @@
 header{
-	background-color: black;
 	background-size: cover;
 	font-family: Didot;
-	color: white;
 	margin-left: 50px;
 }
 
 img{
-	max-width: 25%;
+	max-width: 100%;
 	max-height: auto;
 	margin-left: 50px;
 	margin-right: auto;
