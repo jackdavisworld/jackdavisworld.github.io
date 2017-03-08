@@ -8,6 +8,7 @@ header{
 img{
 	max-width: 100%;
 	max-height: auto;
+	padding: 25px;
 }
 
 h1, body{
