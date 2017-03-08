@@ -1,3 +1,7 @@
+body{
+	font-family: Didot;
+}
+
 header{
 	background-size: cover;
 	font-family: Didot;
@@ -10,10 +14,6 @@ header{
 img{
 	max-width: 100%;
 	max-height: auto;
-}
-
-h1, body{
-	font-family: Didot;
 }
 
 ul{
