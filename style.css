@@ -24,3 +24,9 @@ li{
 	display: inline;
 	padding: 10px;
 }
+
+@media screen and (max-width:320px){
+	li{
+		display: block;
+	}
+}
