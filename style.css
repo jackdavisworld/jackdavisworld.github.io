@@ -71,4 +71,27 @@ p {
 	li{
 		display: block;
 	}
+	
+	h1 {
+	   font-family: 'Helvetica';
+	   font-weight: bold ;
+	   font-size: 75px;
+	   margin: 10px;
+	}
+
+	 h2 {
+	   font-family: 'Helvetica';
+	   text-transform: upper-case;
+	   font-size: 38px;
+	   margin: 50px;
+	   text-align: center;
+	}
+
+	h3 {
+	   font-family: 'Helvetica';
+	   text-transform: upper-case;
+	   font-size: 25px;
+	   margin: 50px;
+	   text-align: center;
+	}
 }
