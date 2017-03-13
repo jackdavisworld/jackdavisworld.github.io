@@ -5,6 +5,7 @@ body{
 header{
 	background-size: cover;
 	font-family: Helvetica;
+	font-weight: bold;
 	text-align: center;
 	size: 300px;
 	margin-top: 20px;
