@@ -19,6 +19,7 @@ img{
 
 ul{
 	list-style-type: none;
+	size: 100px;
 }
 
 li{
@@ -73,6 +74,10 @@ p {
 		display: block;
 		size: 150px;
 	}
+	
+	ul{
+	list-style-type: none;
+	size: 150px;
 	
 	h1 {
 	   font-family: 'Helvetica';
