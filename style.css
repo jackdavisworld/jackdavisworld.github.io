@@ -12,9 +12,7 @@ header{
 	margin-bottom: 20px;
 }
 
-img{
-	max-width: 100%;
-	max-height: auto;
+
 }
 
 ul{
@@ -45,6 +43,10 @@ a:hover, a:active{
 	border-style: solid;
 }
 
+img{
+	max-width: 100%;
+	max-height: auto;
+	border-width: 0px;
 h1 {
    font-family: 'Helvetica';
    font-weight: bold ;
