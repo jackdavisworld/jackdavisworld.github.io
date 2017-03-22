@@ -107,11 +107,6 @@ p {
 		size: 150px;
 	}
 	
-	ul{
-	list-style-type: none;
-	size: 150px;
-	}
-	
 	h1 {
 	   font-family: 'Helvetica';
 	   font-weight: bold ;
@@ -123,7 +118,7 @@ p {
 	 h2 {
 	   font-family: 'Helvetica';
 	   text-transform: upper-case;
-	   font-size: 50px;
+	   font-size: 25px;
 	   margin: 0px;
 	}
 
@@ -146,4 +141,16 @@ p {
 	max-height: auto;
 	border-width: 0px;
 		}
+	
+	img{
+		max-width: 100%;
+		max-height: auto;
+		border-width: 0px;
+	}
+
+	iframe{
+		display: block;
+		margin: auto;
+		max-width: 100%;
+	}
 }
