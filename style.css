@@ -45,6 +45,12 @@ img{
 	border-width: 0px;
 }
 
+iframe{
+	display: block;
+	margin: auto;
+	width: 50%;
+}
+
 .portfolio{
 	display: block;
 	margin: auto;
