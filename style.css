@@ -63,6 +63,12 @@ iframe{
 	max-height: 100%;
 }
 
+object{
+	display: block;
+	margin: auto;
+	width: 50%;
+}
+
 h1 {
    font-family: 'Helvetica';
    font-weight: bold ;
