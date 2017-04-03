@@ -101,6 +101,10 @@ p {
   clear: left;
 }
 
+.index{
+background-image: url("COMPOSITE-SUPERSATURATED.gif");	
+}
+
 @media screen and (max-width:500px){
 	li{
 		display: block;
