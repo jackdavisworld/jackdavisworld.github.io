@@ -45,6 +45,23 @@ img{
 	border-width: 0px;
 }
 
+iframe{
+		display: block;
+		margin: auto;
+		width: 50%;
+	}
+
+	.portfolio{
+		display: block;
+		margin: auto;
+		width: 50%;
+	}
+
+	.portfoliotall{
+		display: block;
+		margin: auto;
+		max-height: 100%;
+	}
 
 object{
 	display: block;
@@ -140,22 +157,6 @@ p {
 		max-width: 100%;
 	}
 	
-		iframe{
-		display: block;
-		margin: auto;
-		width: 50%;
-	}
-
-	.portfolio{
-		display: block;
-		margin: auto;
-		width: 50%;
-	}
-
-	.portfoliotall{
-		display: block;
-		margin: auto;
-		max-height: 100%;
-	}
+		
 
 }
