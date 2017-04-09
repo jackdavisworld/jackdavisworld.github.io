@@ -142,22 +142,21 @@ p {
 	}
 	
 	.portfolio{
-	max-width: 100%;
-	max-height: auto;
-	margin: 0px;
+	display: block;
+	margin: auto;
+	max-height: 100%;
 		}
 	
 	img{
-		max-width: 100%;
-		max-height: auto;
-		margin: 0px;
+	display: block;
+	margin: auto;
+	max-height: 100%;
 	}
 
 	iframe{
-		display: block;
-		max-width: 100%;
-		max-height: auto;
-		margin: 0px;
+	display: block;
+	margin: auto;
+	max-height: 100%;
 	}
 	
 		
