@@ -125,7 +125,8 @@ p {
 	   font-family: 'Helvetica';
 	   text-transform: upper-case;
 	   font-size: 25px;
-	   margin: 0px;
+	   margin-top: 10px;
+	margin-bottom: 10px;
 	}
 
 	h3 {
