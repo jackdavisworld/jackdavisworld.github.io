@@ -46,21 +46,21 @@ img{
 }
 
 iframe{
-		display: block;
-		margin: auto;
-		width: 50%;
+	display: block;
+	margin: auto;
+	width: 50%;
 	}
 
-	.portfolio{
-		display: block;
-		margin: auto;
-		width: 50%;
+.portfolio{
+	display: block;
+	margin: auto;
+	width: 50%;
 	}
 
-	.portfoliotall{
-		display: block;
-		margin: auto;
-		max-height: 100%;
+.portfoliotall{
+	display: block;
+	margin: auto;
+	max-height: 100%;
 	}
 
 object{
@@ -109,16 +109,16 @@ p {
 @media screen and (max-width:500px){
 	li{
 		display: block;
-		size: 150px;
+		size: 300px;
 		padding: 0px;
 	}
 	
 	h1 {
 	   font-family: 'Helvetica';
-	   font-weight: bold ;
+	   font-weight: bold;
 	   font-size: 50px;
 	   margin: 0px;
-	text-align: center;
+		text-align: center;
 	}
 
 	 h2 {
@@ -144,19 +144,20 @@ p {
 	.portfolio{
 	max-width: 100%;
 	max-height: auto;
-	border-width: 0px;
+	margin: 0px;
 		}
 	
 	img{
 		max-width: 100%;
 		max-height: auto;
-		border-width: 0px;
+		margin: 0px;
 	}
 
 	iframe{
 		display: block;
-		margin: auto;
 		max-width: 100%;
+		max-height: auto;
+		margin: 0px;
 	}
 	
 		
