@@ -72,7 +72,7 @@ object{
 
 h1 {
    font-family: 'Helvetica';
-   font-weight: bold ;
+   font-weight: bold;
    font-size: 150px;
    margin: 20px;
 text-align: center;
@@ -80,7 +80,7 @@ text-align: center;
 
  h2 {
    font-family: 'Helvetica';
-   text-transform: upper-case;
+   font-weight: bold;
    font-size: 75px;
    margin: 100px;
    text-align: center;
