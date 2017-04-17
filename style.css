@@ -110,8 +110,9 @@ p {
 	background-size: cover;
 }
 
-#enter{
-	color: white;
+#CONTACT{
+	background-image: url("PATRIOT-2.gif");
+	background-size: cover;
 }
 
 @media screen and (max-width:500px){
