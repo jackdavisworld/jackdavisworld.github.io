@@ -114,6 +114,10 @@ p {
 	color: white;
 }
 
+.parallax-container {
+      height: 500px;
+    }
+
 #CONTACT{
 	background-image: url("PATRIOT-2.gif");
 	background-size: cover;
