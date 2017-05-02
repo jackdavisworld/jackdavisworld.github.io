@@ -97,6 +97,11 @@ h3, blockquote {
 	color: black;
 }
 
+blockquote {
+	border: 0px;
+	padding: 0px;
+}
+
 p {
   margin: 10px;
   line-height: 1.5;
