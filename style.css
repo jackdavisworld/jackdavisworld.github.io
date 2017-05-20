@@ -8,8 +8,9 @@ header{
 	font-weight: bold;
 	text-align: center;
 	size: 300px;
-	margin-top: 20px;
+	margin-top: 0px;
 	margin-bottom: 20px;
+	position: fixed;
 }
 
 ul{
